@@ -1,6 +1,6 @@
-<h1> AntiCrashBot </h1>
+<h1> AntiCrash </h1>
 
-<p> Bonjour à tous je vous présente aujourd’hui mon AntiCrash pour bot  ! 🏅 <br>
+<p> Bonjour à tous je vous présente aujourd’hui mon AntiCrash pour bot / serveur fiveM et autres ! 🏅 <br>
 
 Merci à ceux qui l'installerons ! ❤️ </p>
 
